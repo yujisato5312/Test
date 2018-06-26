@@ -7,7 +7,7 @@ class test:
 
 
 def main():
-    print("test")
+    print("develop")
 
 if __name__ == "__main__":
     main()
